@@ -1,0 +1,93 @@
+
+h2 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+  color:rgb(0, 0, 0);
+  margin: 0;
+  
+}
+
+.titulo { 
+font-size: 200px;
+font-family: 'Press Start 2P', cursive;
+margin-left: 560px; 
+margin-top: 50px;
+
+
+}
+
+
+.caixabranca {
+    margin: 100px;
+    padding: 50px;
+    background-color: #e2e6ec;
+    text-align: center;
+    opacity: 70%;
+    display: inline-block;
+}
+
+body {
+  background-image: url(/images/apocalipse.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.character { 
+  font-size: 50px;
+  font-family:'Press Start 2P', cursive;
+  background-color: #e2e6ec;
+  margin-left: 429px;
+  display: inline-block ;
+  padding: 10px;
+  
+}
+
+.fada:hover {
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+ }
+ .mago:hover {
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+ }
+ .lorde:hover {
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+ }
+
+.bonecos  { 
+  margin-left: 300px;
+  display: inline-flex;
+  padding: 50px;
+  transition: transform .2s;
+
+}
+#link:visited {
+color: white;
+}
+
+.fada { 
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 13px;
+  display: block;
+  padding: 50px;
+}
+
+.mago { 
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 13px;
+  padding: 50px;
+}
+
+.lorde { 
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 13px;
+padding: 50px;
+}

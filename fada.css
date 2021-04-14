@@ -1,0 +1,24 @@
+body { 
+background-image: url(/images/apocalipse.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+.img { 
+    margin-top: 50px;
+    margin-left: 300px;
+    display: inline-flex;
+    
+}
+
+.fada { 
+    padding: 50px;
+    margin-right: 50px;
+}
+
+.atributos { 
+margin-top: 150px;
+
+}
